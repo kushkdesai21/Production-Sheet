@@ -1,0 +1,70 @@
+#header{
+    display:inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    height: auto;
+    width: 50%;
+    text-align: center;
+}
+#bi{
+    text-align: center;
+    font-size: xx-large;
+    width: 100%;
+    font-weight: bold;
+}
+#text{
+    margin: 1%;
+    width: 46%;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 2px;
+}
+#qty{
+    margin: 0.5%;
+    width: 7.5%;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 2px;
+}
+#dropdown{
+    border-radius: 25px;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+
+}
+#heading{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#round{
+    font-size: 20px;
+    font-weight: bold;
+}
+#submit{
+    font-size: large;
+    font-weight: bold;
+    margin: 1%;
+    align-items: center;
+    right: 50%;
+    border-radius: 25px;
+    height: 30px;
+    width: 300px;
+}
+button{
+    font-size: 20px;
+    border-radius: 25px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 100px;
+    width: 300px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+label{
+    width: 1000px;
+}
